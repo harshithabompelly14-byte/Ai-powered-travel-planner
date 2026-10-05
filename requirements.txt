@@ -1,0 +1,5 @@
+Python 3.12.x
+streamlit
+python-dotenv
+requests
+pydantic
